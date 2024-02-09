@@ -18,4 +18,3 @@
 < p > & nbsp; < img align = "merkez" src = "https://github-readme-stats.vercel.app/api?username=muhammedturabisancak&show_icons=true&locale=en"" muhammedturabisancak "/ = > / p <
 
 < p > < img hizalama = "merkez" src = "https://github-readme-streak-stats.herokuapp.com/?user=muhammedturabisancak&" alt =" muhammedturabisancak "/ > < / p >
-
