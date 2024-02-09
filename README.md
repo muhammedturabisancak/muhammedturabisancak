@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Turabi Sancak</h1>
-<h3 align="center">Computer Engineering at Ataturk University</h3>
+<h3 align="center">Computer Engineering at Atatürk University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
