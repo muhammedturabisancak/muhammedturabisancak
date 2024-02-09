@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm Muhammed Turabi Sancak</h1>
-<h3 align="center">Atatürk Üniversitesi Bilgisayar Mühendisliği</h3>
+< h1 hizalama = "merkez" > Hi 👋, ben Muhammed Turabi Sancak < / h1 >
+< h3 hizalama = "merkez" > Atatürk Üniversitesi Bilgisayar Mühendislik < / h3 >
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mturabi̇sancak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mturabi̇sancak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammedturabisancak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedturabisancak" height="30" width="40" /></a>
-<a href="https://instagram.com/turabii̇.sancak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turabi.sancak" height="30" width="40" /></a>
-</p>
+< p hizalama = "sol" > < "= src https://github.com/ryo-ma/github-profile-trophy"><img" = alt https://github-profile-trophy.vercel.app/?username=muhammedturabisancak" "muhammedturabisancak" / = / a > < / p
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+< p hizalama = "sol" > < "= hedef https://twitter.com/mturabi̇sancak"" boşluk "= > img src <" = "mturabi 宋sancak" / https://img.shields.io/twitter/follow/mturabi̇sancak?logo=twitter&style=for-the-badge"
+
+< h3 align = "left" > Benimle bağlantı kurun: < / h3 >
+<p hizalama = "sol" >
+< a href = "https://twitter.com/mturabi̇sancak" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"" mturabi " yükseklik = "30" genişlik = "
+< a href = "https://linkedin.com/in/muhammedturabisancak" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"" = "
+< a href = "https://instagram.com/turabi.sancak" hedef =" boşluk "> < img hizalama =" merkez"src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt =" turabi.sancak "yükseklik =" 30 "genişlik = "40" / > < / a >
+< a href = "https://medium.com/@muhammedturabisancak" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"" = "
+< a href = "https://discord.gg/turabisancak" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"" yükseklik = "30" genişlik = "
+< / p >
+
+< h3 hizalama = "sol" > Diller ve Araçlar: < / h3 >
+< p hizalama = "sol" > < a href = "https://dart.dev" hedef =" _ blank "rel =" noreferrer "> < img src = "https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt =" dart "genişliği =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://www.figma.com/" hedef =" _ blank "rel =" noreferrer "> < img src = "https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt =" şekil "genişliği =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://firebase.google.com/" hedef =" _ blank "rel =" noreferrer "> < img src = "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt ="ateş tabanı "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://flutter.dev" hedef =" _ blank "rel =" noreferrer "> < img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt =" çarpıntı "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://www.python.org" hedef =" _ blank "rel =" noreferrer "> < img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt =" python "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < a href = "https://developer.apple.com/swift/" hedef =" _ blank "rel =" noreferrer ">< img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt =" hızlı "genişlik =" 40 "yükseklik =" 40 "/ > < / a > < / p >
+
+< p > < img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=muhammedturabisancak&show_icons=true&locale=en&layout=compact" alt =" muhammedturabisancak "/ > < / p >
+
+< p > & nbsp; < img align = "merkez" src = "https://github-readme-stats.vercel.app/api?username=muhammedturabisancak&show_icons=true&locale=en"" muhammedturabisancak "/ = > / p <
+
+< p > < img hizalama = "merkez" src = "https://github-readme-streak-stats.herokuapp.com/?user=muhammedturabisancak&" alt =" muhammedturabisancak "/ > < / p >
