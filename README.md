@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Muhammed Turabi Sancak</h1>
-<h3 align="center">Atatürk Üniversitesi Bilgisayar Mühendisliği</h3>
+< h1 hizalama = "merkez" > Hi 👋, ben Muhammed Turabi Sancak < / h1 >
+< h3 hizalama = "merkez" > Atatürk Üniversitesi Bilgisayar Mühendislik < / h3 >
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mturabi̇sancak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mturabi̇sancak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammedturabisancak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedturabisancak" height="30" width="40" /></a>
+< h3 align = "left" > Benimle bağlantı kurun: < / h3 >
+< p hizalama = "sol" >
+< a href = "https://twitter.com/mturabi̇sancak" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"" mturabi " yükseklik = "30" genişlik = "
+< a href = "https://linkedin.com/in/muhammedturabisancak" hedef =" boşluk "> < img hizalama =" merkez "src =" https://raw.githubusercontent.com / rahuldkjain / github-profil-okuma-jeneratör / master / src / images / icons / Social / bağlantılı-in-alt.svg "alt =" muhammedturabisancak "yükseklik =" 40 "/= <TA
 < a href = "https://instagram.com/turabi.sancak" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"" turabi = "30" genişlik = "
 < a href = "https://medium.com/@muhammedturabisancak" hedef =" boşluk > < img hizalama = "merkez" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"" = "
 < a href = "https://discord.gg/turabisancak" hedef =" boşluk "> < img hizalama =" merkez "src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt = "turabisancak" yükseklik = "30" genişlik = "40" / > < / a >
@@ -18,3 +18,4 @@
 < p > & nbsp; < img align = "merkez" src = "https://github-readme-stats.vercel.app/api?username=muhammedturabisancak&show_icons=true&locale=en"" muhammedturabisancak "/ = > / p <
 
 < p > < img hizalama = "merkez" src = "https://github-readme-streak-stats.herokuapp.com/?user=muhammedturabisancak&" alt =" muhammedturabisancak "/ > < / p >
+
