@@ -1,5 +1,5 @@
 <h1 align="center">I'm Muhammed Turabi Sancak</h1>
-<h3 align="center">I am computer engineering student in Ataturk University</h3>
+<h3 align="center">I am computer engineering student in Atatürk University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedturabisancak&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedturabisancak" /> </p>
 
