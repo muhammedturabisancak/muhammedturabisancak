@@ -85,3 +85,33 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedturabisancak&theme=radical" height="200em" />
 </p>
 
+
+### 📌 Pinned Projects (Custom)
+
+<p align="center">
+  <a href="https://github.com/muhammedturabisancak/kennyGameApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedturabisancak&repo=kennyGameApp&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/muhammedturabisancak/ArtBook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedturabisancak&repo=ArtBook&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammedturabisancak/InstagramClone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedturabisancak&repo=InstagramClone&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/muhammedturabisancak/FoursquareClone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedturabisancak&repo=FoursquareClone&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/muhammedturabisancak/AngryBirdClone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedturabisancak&repo=AngryBirdClone&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/muhammedturabisancak/FavoritesButtonAnimation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muhammedturabisancak&repo=FavoritesButtonAnimation&theme=radical&hide_border=true" />
+  </a>
+</p>
+
