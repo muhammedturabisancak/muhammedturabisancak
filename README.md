@@ -76,21 +76,22 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-    <!-- En çok kullanılan diller -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedturabisancak&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=old-repo,another-repo" height="180em"/>
+  <!-- En çok kullanılan diller (MATLAB ve Ruby gizlendi) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedturabisancak&layout=compact&langs_count=8&hide=matlab,ruby&theme=radical&hide_border=true&cache_seconds=7200" height="180em" />
 </p>
 
 <p align="center">
   <!-- Commit serisi -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedturabisancak&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammedturabisancak&theme=radical&hide_border=true" height="180em" />
 </p>
 
 <p align="center">
   <!-- Profil özeti -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedturabisancak&theme=radical" height="200em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedturabisancak&theme=radical" height="200em" />
 </p>
 
 <p align="center">
   <!-- Üretken saatler -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedturabisancak&theme=radical" height="200em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedturabisancak&theme=radical" height="200em" />
 </p>
+
