@@ -2,7 +2,7 @@
 <h3 align="center">Developer and tech enthusiast creating impactful mobile and AI projects while inspiring communities 🌟</h3>
 
 <div align="center">
-  <img width="480" height="270" src="https://tenor.com/tr/view/happy-friday-tasha-gif-4888317550559334456">
+  <img width="480" height="270" src="<div class="tenor-gif-embed" data-postid="14282937394908284199" data-share-method="host" data-aspect-ratio="1.33889" data-width="100%"><a href="https://tenor.com/view/i-wanna-code-i-want-to-code-coding-programming-programmer-gif-14282937394908284199">I Wanna Code I Want To Code GIF</a>from <a href="https://tenor.com/search/i+wanna+code-gifs">I Wanna Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>">
 </div>
 
 <p align="center">
