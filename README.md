@@ -85,9 +85,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedturabisancak&theme=radical" height="200em" />
 </p>
 
-<p align="center">
-  <!-- Üretken saatler -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedturabisancak&theme=radical" height="200em" />
-</p>
-
-
