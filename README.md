@@ -2,7 +2,7 @@
 <h3 align="center">Developer and tech enthusiast creating impactful mobile and AI projects while inspiring communities 🌟</h3>
 
 <div align="center">
-  <img width="480" height="270" src="https://github.com/muhammedturabisancak/muhammedturabisancak/blob/main/happy.gif?raw=true">
+  <img width="420" height="240" src="https://github.com/muhammedturabisancak/muhammedturabisancak/blob/main/happy.gif?raw=true">
 </div>
 
 <p align="center">
@@ -21,24 +21,28 @@
 
 ---
 
-- 🌱 I’m currently learning **Advanced Swift & AI**
-- 💼 I’m experienced in **Swift, Flutter, AI, SQL, and Firebase**
-- ⚡ Fun fact: I love building mobile apps and AI-powered tools
+- 🌱 I’m currently learning **Advanced Swift & AI**  
+- 💼 I’m experienced in **Swift, Flutter, AI, SQL, and Firebase**  
+- ⚡ Fun fact: I love building mobile apps and AI-powered tools  
 
 ---
 
 ### 🧑‍💻 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/muhammedturabisancak/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muhammedturabisancak@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://medium.com/@muhammedturabisancak" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://x.com/mturabisancak" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
