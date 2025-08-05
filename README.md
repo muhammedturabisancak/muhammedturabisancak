@@ -76,13 +76,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Genel GitHub istatistikleri -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedturabisancak&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=7200" height="180em" />
-</p>
-
-<p align="center">
   <!-- En çok kullanılan diller (MATLAB ve Ruby gizlendi) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedturabisancak&layout=compact&langs_count=8&hide=matlab,ruby&theme=radical&hide_border=true&cache_seconds=7200" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedturabisancak&layout=compact&langs_count=8&hide=ruby&theme=radical&hide_border=true&cache_seconds=7200" height="180em" />
 </p>
 
 <p align="center">
