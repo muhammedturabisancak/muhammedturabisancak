@@ -76,10 +76,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Genel istatistikler -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammedturabisancak&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
-  
-  <!-- En çok kullanılan diller -->
+    <!-- En çok kullanılan diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedturabisancak&layout=compact&langs_count=8&theme=radical&hide_border=true&exclude_repo=old-repo,another-repo" height="180em"/>
 </p>
 
