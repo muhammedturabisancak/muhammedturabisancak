@@ -86,11 +86,6 @@
 </p>
 
 <p align="center">
-  <!-- Commit serisi -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammedturabisancak&theme=radical&hide_border=true&cache_seconds=7200" height="180em" />
-</p>
-
-<p align="center">
   <!-- Profil detay kartı -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedturabisancak&theme=radical" height="200em" />
 </p>
