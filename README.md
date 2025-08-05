@@ -75,9 +75,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedturabisancak&theme=swift" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedturabisancak&theme=swift" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedturabisancak&theme=swift" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedturabisancak&theme=swift" height="180em"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedturabisancak&theme=swift" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammedturabisancak&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedturabisancak&layout=compact&theme=radical&hide_border=true" height="180em"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedturabisancak&theme=radical&hide_border=true" height="180em"/>
+</p>
+
