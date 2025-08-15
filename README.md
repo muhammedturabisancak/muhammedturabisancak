@@ -18,9 +18,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Advanced Swift & AI**  
-- 💼 I’m experienced in **Swift, Flutter, AI, SQL, and Firebase**  
-- ⚡ Fun fact: I love building mobile apps and AI-powered tools  
+- 🌱 I’m currently learning **Advanced Swift & AI**
+- 💼 I’m experienced in **Swift, Flutter, AI, SQL, and Firebase**
+- ⚡ Fun fact: I love building mobile apps and AI-powered tools
 
 ---
 
