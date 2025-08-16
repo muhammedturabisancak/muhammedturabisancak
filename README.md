@@ -39,7 +39,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
    <a href="https://muhammedturabisancak.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0ABF53?style=for-the-badge&logo=safari&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
 </p>
 
