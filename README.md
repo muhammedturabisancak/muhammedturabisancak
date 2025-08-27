@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammed Turabi Sancak</h1>
+<h1 align="center">Hi 👋, I'm Muhammed Turabi Sancak </h1>
 <h3 align="center">Developer and tech enthusiast creating impactful mobile and AI projects while inspiring communities 🌟</h3>
 
 <div align="center">
