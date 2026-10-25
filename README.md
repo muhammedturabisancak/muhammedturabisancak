@@ -22,14 +22,6 @@ currently: Shipping fintech apps and building LLM-powered tools
 motto: "Ship it first, then make it smarter."
 ```
 
-### 🤖 Ask my README
-
-Got a question about me? An AI agent answers it in a few seconds, right in a GitHub issue.
-
-[**Ask anything →**](https://github.com/muhammedturabisancak/muhammedturabisancak/issues/new?template=ask.yml)
-&nbsp;·&nbsp; or try: [*What does he build with AI?*](https://github.com/muhammedturabisancak/muhammedturabisancak/issues/new?template=ask.yml&title=Ask%3A+What+does+he+build+with+AI%3F)
-&nbsp;·&nbsp; [*Which state management does he use?*](https://github.com/muhammedturabisancak/muhammedturabisancak/issues/new?template=ask.yml&title=Ask%3A+Which+state+management+does+he+use+in+Flutter%3F)
-
 ### Featured projects
 
 | Project | Description | Stack |
