@@ -1,7 +1,7 @@
 <h1 align="center">Muhammed Turabi Sancak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Mobile+Developer+%40+Base+Interactive;Building+LLM-powered+tools+%26+agents;Fintech+apps+in+Flutter" alt="Mobile Developer @ Base Interactive · Building LLM-powered tools & agents · Fintech apps in Flutter" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Mobile+Developer;Building+LLM-powered+tools+%26+agents;Fintech+apps+in+Flutter" alt="Mobile Developer · Building LLM-powered tools & agents · Fintech apps in Flutter" />
 </p>
 
 <p align="center">
