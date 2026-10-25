@@ -32,6 +32,9 @@ motto: "Ship it first, then make it smarter."
 ### Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Widget Tree #1 — Widget Nedir? Flutter Ekranı Nasıl Oluşturur?](https://medium.com/@muhammedturabisancak/flutter-widget-tree-1-widget-nedir-flutter-ekran%C4%B1-nas%C4%B1l-olu%C5%9Fturur-5eaac17e1dc5?source=rss-f13be6b45385------2)
+- [Oracle SQL 101 — Learning to Look at Data the Right Way](https://medium.com/@muhammedturabisancak/oracle-sql-101-learning-to-look-at-data-the-right-way-c67839c1f1c6?source=rss-f13be6b45385------2)
+- [MicroStrategy: Not Just a Dashboard, a Strategy Tool — 2](https://medium.com/@muhammedturabisancak/microstrategy-not-just-a-dashboard-a-strategy-tool-2-0c6b2436428a?source=rss-f13be6b45385------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Tech stack
