@@ -1,7 +1,7 @@
 <h1 align="center">Muhammed Turabi Sancak</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Mobile+Developer;Building+LLM-powered+tools+%26+agents;Fintech+apps+in+Flutter" alt="Mobile Developer · Building LLM-powered tools & agents · Fintech apps in Flutter" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Mobile+Developer+%26+AI+Engineer;Building+LLM-powered+tools+%26+agents;Flutter+%C2%B7+Python+%C2%B7+LLMs" alt="Mobile Developer & AI Engineer · Building LLM-powered tools & agents · Flutter · Python · LLMs" />
 </p>
 
 <p align="center">
@@ -13,12 +13,12 @@
 
 ```yaml
 name: Muhammed Turabi Sancak
-role: Mobile Developer
+role: Mobile Developer & AI Engineer
 focus:
-  - Banking and trading apps for iOS and Android, built with Flutter
+  - iOS and Android apps built with Flutter
   - LLM gateways and AI agents with tool calling
   - Internal tools and workflow automation
-currently: Shipping fintech apps and building LLM-powered tools
+currently: Shipping mobile apps and building LLM-powered tools
 motto: "Ship it first, then make it smarter."
 ```
 
